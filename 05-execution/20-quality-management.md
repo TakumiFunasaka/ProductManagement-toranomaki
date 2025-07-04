@@ -435,4 +435,10 @@
 
 9. Imai, M. (1986). *Kaizen: The Key to Japan's Competitive Success*. McGraw-Hill.
 
-10. Womack, J. P., Jones, D. T., & Roos, D. (1990). *The Machine That Changed the World*. Rawson Associates. 
+10. Womack, J. P., Jones, D. T., & Roos, D. (1990). *The Machine That Changed the World*. Rawson Associates.
+
+---
+
+**前の章**: [第19章：ステークホルダー管理](./19-stakeholder-management.md)
+
+**次の章**: [第21章：プロダクト分析の基礎](../06-analytics/21-product-analytics-basics.md) 

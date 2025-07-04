@@ -407,4 +407,10 @@
 
 9. Post, J. E., Preston, L. E., & Sachs, S. (2002). *Managing the Extended Enterprise: The New Stakeholder View*. California Management Review, 45(1), 6-28.
 
-10. Wheeler, D., & Sillanpää, M. (1997). *The Stakeholder Corporation: A Blueprint for Maximizing Stakeholder Value*. Pitman Publishing. 
+10. Wheeler, D., & Sillanpää, M. (1997). *The Stakeholder Corporation: A Blueprint for Maximizing Stakeholder Value*. Pitman Publishing.
+
+---
+
+**前の章**: [第18章：スプリントプランニングとバックログ管理](./18-sprint-planning-and-backlog.md)
+
+**次の章**: [第20章：品質管理とテスト戦略](./20-quality-management.md) 

@@ -668,4 +668,10 @@ CEO（最高経営責任者）
 
 9. Kohn, A. (2018). *Product Management in Practice: A Real-World Guide to the Key Connective Role-That Is Everything*. O'Reilly Media.
 
-10. Perri, M. (2018). *Escaping the Build Trap: How Effective Product Management Creates Real Value*. O'Reilly Media. 
+10. Perri, M. (2018). *Escaping the Build Trap: How Effective Product Management Creates Real Value*. O'Reilly Media.
+
+---
+
+**前の章**: [第1章：プロダクトマネジメントとは](./01-what-is-product-management.md)
+
+**次の章**: [第3章：プロダクトマネジメントの歴史と進化](./03-history-and-evolution.md) 

@@ -497,4 +497,10 @@
 
 9. Reinertsen, D. G. (2009). *The Principles of Product Development Flow: Second Generation Lean Product Development*. Celeritas Publishing.
 
-10. Poppendieck, M., & Poppendieck, T. (2003). *Lean Software Development: An Agile Toolkit*. Addison-Wesley. 
+10. Poppendieck, M., & Poppendieck, T. (2003). *Lean Software Development: An Agile Toolkit*. Addison-Wesley.
+
+---
+
+**前の章**: [第17章：アジャイル開発とプロダクトマネジメント](./17-agile-and-product-management.md)
+
+**次の章**: [第19章：ステークホルダー管理](./19-stakeholder-management.md) 

@@ -343,6 +343,6 @@
 
 ---
 
-**前の章**: [第8章：顧客開発とプロダクト市場適合性](../02-strategy/08-customer-development-and-pmf.md)
+**前の章**: [第8章：ビジネスモデルの設計](../02-strategy/08-business-model-design.md)
 
 **次の章**: [第10章：定性的リサーチ手法](./10-qualitative-research.md) 

@@ -573,4 +573,10 @@
 
 14. Kotler, P. (1967). *Marketing Management: Analysis, Planning, and Control*. Prentice-Hall.
 
-15. Mintzberg, H. (1994). *The Rise and Fall of Strategic Planning*. Free Press. 
+15. Mintzberg, H. (1994). *The Rise and Fall of Strategic Planning*. Free Press.
+
+---
+
+**前の章**: [第2章：プロダクトマネージャーの役割と責任](./02-role-and-responsibilities.md)
+
+**次の章**: [第4章：プロダクトマネジメントのフレームワーク](./04-frameworks-and-methodologies.md) 
