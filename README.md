@@ -85,8 +85,7 @@
 ### 📚 第13部：ケーススタディと実践例
 - [第49章：成功事例の分析](./13-case-studies/49-success-stories.md)
 - [第50章：失敗事例からの学び](./13-case-studies/50-learning-from-failures.md)
-- [第51章：業界リーダーのインタビュー](./13-case-studies/51-industry-leader-interviews.md)
-- [第52章：実践的なワークショップ](./13-case-studies/52-practical-workshops.md)
+- [第51章：実践的なワークショップ](./13-case-studies/51-practical-workshops.md)
 
 ## 使用方法
 
